@@ -1,2 +1,2 @@
 # DontSpill
-An attempt at making a for a mobile device using swift.
+An attempt at making an app for ios using swift.
